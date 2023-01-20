@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BMS_Demo/BMS_Demo.iml" filepath="$PROJECT_DIR$/BMS_Demo/BMS_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework_Pra/Homework_Pra.iml" filepath="$PROJECT_DIR$/Homework_Pra/Homework_Pra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/J-1.iml" filepath="$PROJECT_DIR$/.idea/J-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PokerDemo/PokerDemo.iml" filepath="$PROJECT_DIR$/PokerDemo/PokerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pra_J/Pra_J.iml" filepath="$PROJECT_DIR$/Pra_J/Pra_J.iml" />
+    </modules>
+  </component>
+</project>
